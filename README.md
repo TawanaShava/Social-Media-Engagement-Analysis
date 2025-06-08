@@ -50,16 +50,16 @@ Correlation Testing: Calculated Pearson coefficients between key metrics
 
 ## Time vs Engagement Disconnect
 
-[Correlation matrix](https://github.com/TawanaShava/Social-Media-Engagement-Analysis/blob/main/visualizations/correlation_matrix.png)
+![Correlation matrix](https://github.com/TawanaShava/Social-Media-Engagement-Analysis/blob/main/visualizations/correlation_matrix.png)
 
 **Near-zero correlation between time spent and likes challenges assumptions**
 
 ## Platform Engagement Comparison
 
-[Engagement comparison](https://github.com/TawanaShava/Social-Media-Engagement-Analysis/blob/main/visualizations/engagement_comparison.png)
+![Engagement comparison](https://github.com/TawanaShava/Social-Media-Engagement-Analysis/blob/main/visualizations/engagement_comparison.png)
 **Facebook leads in likes despite lower posting frequency** 
 
 ## Daily Time Commitment
 
-[Time spent](https://github.com/TawanaShava/Social-Media-Engagement-Analysis/blob/main/visualizations/time_spent.png)
-**Instagram users spend 4.5+ hours daily on the platform**
+![Time spent](https://github.com/TawanaShava/Social-Media-Engagement-Analysis/blob/main/visualizations/time_spent.png)
+!**Instagram users spend 4.5+ hours daily on the platform**
